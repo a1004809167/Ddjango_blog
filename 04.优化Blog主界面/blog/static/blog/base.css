@@ -1,0 +1,24 @@
+ *{
+    margin: 0;
+    padding: 0;
+}
+body{
+    margin: 70px!important;
+}
+div.container-fluid{
+    background: url('images/wang2.jpg') center center / cover no-repeat rgb(30, 30, 30);;
+    color: #fff;
+    overflow: hidden;
+    box-shadow: 5px 5px 5px #888888;
+}
+.divider{
+    height: 1px;
+    overflow: hidden;
+    background-color: #e0e0e0;
+}
+ul{
+    list-style-type: none;
+}
+ul.navbar-right{
+    margin-right:0;
+}

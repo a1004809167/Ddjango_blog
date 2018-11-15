@@ -1,0 +1,27 @@
+
+.home-content{
+    font-size: 300%;
+    text-align:left;
+    margin-top:0em;
+    margin-bottom:1em;
+    color: #7986cb !important;
+}
+.home-second{
+    font-size: 180%;
+    color: #c5cae9 !important;
+}
+div#container{
+    margin:0 auto;
+    height: 30em;
+    min-width:30em;
+    max-width: 50em;
+}
+.divider{
+    height: 1px;
+    overflow: hidden;
+    background-color: #e0e0e0;
+}
+div.hot-data{
+    text-align:right;
+    margin-top:2em;
+}
